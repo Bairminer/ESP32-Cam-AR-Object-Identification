@@ -3,10 +3,10 @@ This project focuses on creating AR glasses with a transparent OLED display whic
 
 
 ## Examples of the object identification in action:
-![Cat](images/cat.jpeg)
-![Keyboard](images/keyboard.jpeg)
-![Sink](images/sink.jpeg)
-![Toilet](images/toilet.jpeg)
+![Cat](images/cat.jpg)
+![Keyboard](images/keyboard.jpg)
+![Sink](images/sink.jpg)
+![Toilet](images/toilet.jpg)
 
 ## esp32cvclien.ino
 This program takes pictures every second and sends HTTP POST requests with images to the remote server. The server then replies with any identified objects, which are displayed on the OLED screen.
